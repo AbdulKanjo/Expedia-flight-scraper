@@ -1,10 +1,14 @@
 import json
+import sys
 import requests
 from lxml import html
 from collections import OrderedDict
 import argparse
 
-print("Output from Python")
+# print("Output from Python")
+# print("From: " + sys.argv[1])
+# print("To: " + sys.argv[2])
+# print("Date: " + sys.argv[3])
 
 
 def parse(source, destination, date):
@@ -121,10 +125,9 @@ if __name__ == "__main__":
     source = args.source
     destination = args.destination
     date = args.date
-    print ("Fetching flight details")
+    # print ("Fetching flight details")
     scraped_data = parse(source, destination, date)
-    print ("Writing data to output file")
+    # print ("Writing data to output file")
+    print(scraped_data)
     with open('%s-%s-flight-results.json' % (source, destination), 'w') as fp:
-        json.dump(scraped_data, fp, indent=4)
-
-        print ('hello')
+        print(json.dump(scraped_data, fp, indent=4))

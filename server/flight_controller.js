@@ -1,31 +1,33 @@
+var moment = require("moment");
+
 const checkFlights = (req, res, next) => {
   console.log("hello", req.params);
   let { source, destination, date } = req.params;
-  //   var formatedDate = new Date(
-  //     "date".replace(/(\d\d)(\d\d)(\d\d\d\d)/, "$3-$1-$2")
-  //   );
-  console.log(formatedDate);
+  var fromatedDate = date
+    .toString(10)
+    .split("")
+    .map(function(t) {
+      return parseInt(t);
+    });
+  var day = fromatedDate.slice(0, 2).join("");
+  var month = fromatedDate.slice(2, 4).join("");
+  var year = fromatedDate.slice(4, 8).join("");
+  console.log("hello", `${day}/${month}/${year}`);
+  //   console.log(formatedDate);
 
   var spawn = require("child_process").spawn;
   var process = spawn("python", [
     "./expedia.py",
     source,
     destination,
-    formatedDate
+    `${day}/${month}/${year}`
   ]);
   process.stdout.on("data", function(data) {
-    res.send(data.toString());
+    // res.send();
+    res.status(200).send(data);
   });
 };
 
-// const getAllStories = (req, res, next) => {
-//   let { source, destination, date } = req.params;
-
-//   const db = req.app.get("db");
-//   db.get_stories([auth_id])
-//     .then(post => res.status(200).send(post))
-//     .catch(e => res.status(500).send("somethingiswrong"));
-// };
 module.exports = {
   checkFlights
 };
