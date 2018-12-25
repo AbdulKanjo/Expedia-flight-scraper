@@ -6,8 +6,9 @@ class FlightInfo extends Component {
     super(props);
     this.state = {
       from: "austin",
-      to: "dallas",
+      to: "houston",
       date: "01232019",
+      // info: { flight: [] }
       info: []
     };
   }
@@ -16,8 +17,10 @@ class FlightInfo extends Component {
     axios
       .get(`/api/flight/${this.state.from}/${this.state.to}/${this.state.date}`)
       .then(res => {
-        this.setState({ info: res.data });
-        console.log(res.data);
+        let format = res.data.replace(/u'(?=[^:]+')/g, "'");
+        this.setState({ info: format.replace(/'/g, '"') });
+        // this.setState({ ...this.state.info, flight: res.data });
+        console.log(res.data.info);
       });
     console.log(
       `/api/flight/${this.state.from}/${this.state.to}/${this.state.date}`
@@ -37,7 +40,21 @@ class FlightInfo extends Component {
   };
 
   render() {
+    // let test = this.state.info.replace(/'/g, '"');
+    // console.log(test);
     console.log(this.state.info);
+    let showInfo = this.state.info.map((e, i) => {
+      return (
+        <div key={i}>
+          <div>{e.airline}</div>
+          <div>{e.price}</div>
+          <div>{e.departure}</div>
+          <div>{e.arrival}</div>
+          <div>{e.stops}</div>
+          <div>{e.plane}</div>
+        </div>
+      );
+    });
 
     return (
       <div>
@@ -51,7 +68,7 @@ class FlightInfo extends Component {
           onChange={e => this.handleDate(e.target.value)}
         />
         <button onClick={() => this.getFlightInfo()}>Check Flight</button>
-        {this.state.info}
+        {showInfo}
       </div>
     );
   }
