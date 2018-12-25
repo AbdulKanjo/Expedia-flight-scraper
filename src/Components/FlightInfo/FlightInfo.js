@@ -1,31 +1,26 @@
 import React, { Component } from "react";
 import axios from "axios";
-
+import "./FlightInfo.css";
 class FlightInfo extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      from: "austin",
+      from: "dallas",
       to: "houston",
-      date: "01232019",
-      // info: { flight: [] }
+      date: "01262019",
       info: []
     };
   }
 
-  getFlightInfo() {
-    axios
+  getFlightInfo = async () => {
+    await axios
       .get(`/api/flight/${this.state.from}/${this.state.to}/${this.state.date}`)
-      .then(res => {
-        let format = res.data.replace(/u'(?=[^:]+')/g, "'");
-        this.setState({ info: format.replace(/'/g, '"') });
-        // this.setState({ ...this.state.info, flight: res.data });
-        console.log(res.data.info);
-      });
+      .then(res => this.setState({ info: res.data }));
+
     console.log(
       `/api/flight/${this.state.from}/${this.state.to}/${this.state.date}`
     );
-  }
+  };
 
   handleFrom = e => {
     this.setState({ from: e });
@@ -40,18 +35,19 @@ class FlightInfo extends Component {
   };
 
   render() {
-    // let test = this.state.info.replace(/'/g, '"');
-    // console.log(test);
-    console.log(this.state.info);
+    console.log("this where to cut", this.state.info);
+
     let showInfo = this.state.info.map((e, i) => {
       return (
-        <div key={i}>
-          <div>{e.airline}</div>
-          <div>{e.price}</div>
-          <div>{e.departure}</div>
-          <div>{e.arrival}</div>
-          <div>{e.stops}</div>
-          <div>{e.plane}</div>
+        <div className="grid-container" key={i}>
+          <br />
+          <div className="grid-item">Airline: {e.airline}</div>
+          <div className="grid-item">From: {e.departure}</div>
+          <div className="grid-item">To: {e.arrival}</div>
+          <div className="grid-item">Price: {e.price}$</div>
+          <div className="grid-item">Stops: {e.stops}</div>
+          <div className="grid-item">Plane: {e.plane}</div>
+          <br />
         </div>
       );
     });
@@ -67,7 +63,7 @@ class FlightInfo extends Component {
           placeholder="Date"
           onChange={e => this.handleDate(e.target.value)}
         />
-        <button onClick={() => this.getFlightInfo()}>Check Flight</button>
+
         {showInfo}
       </div>
     );
