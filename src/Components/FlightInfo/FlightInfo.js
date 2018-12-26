@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import axios from "axios";
 import "./FlightInfo.css";
+import LoadingPlane from "../LoadingPlane/LoadingPlane";
+
 class FlightInfo extends Component {
   constructor(props) {
     super(props);
@@ -8,14 +10,16 @@ class FlightInfo extends Component {
       from: "dallas",
       to: "houston",
       date: "01262019",
-      info: []
+      info: [],
+      loading: false
     };
   }
 
   getFlightInfo = async () => {
+    this.setState({ loading: true });
     await axios
       .get(`/api/flight/${this.state.from}/${this.state.to}/${this.state.date}`)
-      .then(res => this.setState({ info: res.data }));
+      .then(res => this.setState({ info: res.data, loading: false }));
 
     console.log(
       `/api/flight/${this.state.from}/${this.state.to}/${this.state.date}`
@@ -35,8 +39,6 @@ class FlightInfo extends Component {
   };
 
   render() {
-    console.log("this where to cut", this.state.info);
-
     let showInfo = this.state.info.map((e, i) => {
       return (
         <div className="grid-container" key={i}>
@@ -63,8 +65,8 @@ class FlightInfo extends Component {
           placeholder="Date"
           onChange={e => this.handleDate(e.target.value)}
         />
-
-        {showInfo}
+        <button onClick={() => this.getFlightInfo()}>Check Flight</button>
+        {this.state.loading ? <LoadingPlane /> : showInfo}
       </div>
     );
   }
