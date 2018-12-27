@@ -1,716 +1,716 @@
 [
     {
-        "arrival": ", Houston", 
+        "arrival": ", Atlanta", 
         "timings": [
             {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "8:10am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "6:59am"
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:21am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "10:50pm"
             }
         ], 
-        "plane": "Airbus A319", 
-        "flight duration": "0 days 1 hours 11 minutes", 
-        "plane code": "319", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS", 
+        "flight duration": "0 days 1 hours 31 minutes", 
+        "plane code": "32A", 
+        "price": "328.72", 
+        "departure": ", Orlando", 
         "stops": "Nonstop", 
+        "airline": "Spirit Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:41am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "7:03am"
+            }
+        ], 
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS", 
+        "flight duration": "0 days 1 hours 38 minutes", 
+        "plane code": "32A", 
+        "price": "364.76", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Spirit Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:10am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 1 hours 45 minutes", 
+        "plane code": "321", 
+        "price": "392.76", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Frontier Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:18am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "9:38am"
+            }
+        ], 
+        "plane": "Airbus A320", 
+        "flight duration": "0 days 1 hours 40 minutes", 
+        "plane code": "320", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "JetBlue Airways"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:42am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "flight duration": "0 days 1 hours 42 minutes", 
+        "plane code": "M88", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "plane": "", 
+        "flight duration": "0 days 1 hours 45 minutes", 
+        "plane code": "", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:04am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "6:30am"
+            }
+        ], 
+        "plane": "Boeing 757", 
+        "flight duration": "0 days 1 hours 34 minutes", 
+        "plane code": "757", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "flight duration": "0 days 1 hours 40 minutes", 
+        "plane code": "M88", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:11pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "flight duration": "0 days 1 hours 41 minutes", 
+        "plane code": "M88", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:34am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "plane": "Boeing 757", 
+        "flight duration": "0 days 1 hours 34 minutes", 
+        "plane code": "757", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:07am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "plane": "Boeing 757", 
+        "flight duration": "0 days 1 hours 37 minutes", 
+        "plane code": "757", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:37am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "plane": "Boeing 757", 
+        "flight duration": "0 days 1 hours 37 minutes", 
+        "plane code": "757", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:09pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "flight duration": "0 days 1 hours 44 minutes", 
+        "plane code": "M88", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "5:20am"
+            }
+        ], 
+        "plane": "Boeing 757", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane code": "757", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:04pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "5:25pm"
+            }
+        ], 
+        "plane": "Boeing 757", 
+        "flight duration": "0 days 1 hours 39 minutes", 
+        "plane code": "757", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:09pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "4:25pm"
+            }
+        ], 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "flight duration": "0 days 1 hours 44 minutes", 
+        "plane code": "M88", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:12pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "7:25pm"
+            }
+        ], 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "flight duration": "0 days 1 hours 47 minutes", 
+        "plane code": "M88", 
+        "price": "608.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:06am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "8:20am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:36pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:19pm"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 6 hours 16 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
         "airline": "American Airlines"
     }, 
     {
-        "arrival": ", Houston", 
+        "arrival": ", Atlanta", 
         "timings": [
             {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "3:55pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "2:40pm"
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "11:52am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:27pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "3:09pm"
             }
         ], 
-        "plane": "Embraer EMB-140", 
-        "flight duration": "0 days 1 hours 15 minutes", 
-        "plane code": "ERD", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 4 hours 35 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
         "airline": "American Airlines"
     }, 
     {
-        "arrival": ", Houston", 
+        "arrival": ", Atlanta", 
         "timings": [
             {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "10:00pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "8:50pm"
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:40pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "6:56pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:41pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:28pm"
             }
         ], 
-        "plane": "Boeing 737-800", 
-        "flight duration": "0 days 1 hours 10 minutes", 
-        "plane code": "738", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
         "airline": "American Airlines"
     }, 
     {
-        "arrival": ", Houston", 
+        "arrival": ", Atlanta", 
         "timings": [
             {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "11:46pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "3:37pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:21pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:10pm"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 6 hours 44 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:40pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "6:56pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:21pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:10pm"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 3 hours 25 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:36am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:03am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:43am"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 4 hours 3 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:09pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "10:23am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:27pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "3:09pm"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 6 hours 4 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:00pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "5:14pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:21pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:10pm"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 5 hours 7 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:00pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "5:14pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:41pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:28pm"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 6 hours 27 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:09pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "10:23am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:36pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:19pm"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 4 hours 13 minutes", 
+        "plane code": "321", 
+        "price": "637.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "6:26pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:39am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
                 "departure_time": "10:40pm"
             }
         ], 
         "plane": "Boeing 737-800", 
-        "flight duration": "0 days 1 hours 6 minutes", 
+        "flight duration": "0 days 6 hours 13 minutes", 
         "plane code": "738", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "5:46pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "4:35pm"
-            }
-        ], 
-        "plane": "Canadian Regional Jet 700", 
-        "flight duration": "0 days 1 hours 11 minutes", 
-        "plane code": "CR7", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "5:49pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "4:39pm"
-            }
-        ], 
-        "plane": "Boeing 737-800", 
-        "flight duration": "0 days 1 hours 10 minutes", 
-        "plane code": "738", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "9:59am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "8:45am"
-            }
-        ], 
-        "plane": "", 
-        "flight duration": "0 days 1 hours 14 minutes", 
-        "plane code": "", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "8:15pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "6:59pm"
-            }
-        ], 
-        "plane": "Boeing 737-800", 
-        "flight duration": "0 days 1 hours 16 minutes", 
-        "plane code": "738", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "1:39pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "12:30pm"
-            }
-        ], 
-        "plane": "Airbus A320", 
-        "flight duration": "0 days 1 hours 9 minutes", 
-        "plane code": "320", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "10:11am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "9:00am"
-            }
-        ], 
-        "plane": "MDC MD80", 
-        "flight duration": "0 days 1 hours 11 minutes", 
-        "plane code": "M80", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "9:37pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "8:25pm"
-            }
-        ], 
-        "plane": "", 
-        "flight duration": "0 days 1 hours 12 minutes", 
-        "plane code": "", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "7:52pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "6:35pm"
-            }
-        ], 
-        "plane": "", 
-        "flight duration": "0 days 1 hours 17 minutes", 
-        "plane code": "", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "8:03am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "6:45am"
-            }
-        ], 
-        "plane": "Embraer EMB-140", 
-        "flight duration": "0 days 1 hours 18 minutes", 
-        "plane code": "ERD", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "11:33am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "10:25am"
-            }
-        ], 
-        "plane": "Airbus A321", 
-        "flight duration": "0 days 1 hours 8 minutes", 
-        "plane code": "321", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "1:53pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "12:35pm"
-            }
-        ], 
-        "plane": "", 
-        "flight duration": "0 days 1 hours 18 minutes", 
-        "plane code": "", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "3:46pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "2:39pm"
-            }
-        ], 
-        "plane": "Boeing 737-800", 
-        "flight duration": "0 days 1 hours 7 minutes", 
-        "plane code": "738", 
-        "price": "233.20", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "7:55pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "6:39pm"
-            }
-        ], 
-        "plane": "Embraer 175 (Enhanced Winglets)", 
-        "flight duration": "0 days 1 hours 16 minutes", 
-        "plane code": "E7W", 
-        "price": "345.19", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "6:58pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "5:43pm"
-            }
-        ], 
-        "plane": "EMBRAER 170", 
-        "flight duration": "0 days 1 hours 15 minutes", 
-        "plane code": "E70", 
-        "price": "345.19", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "8:52am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "7:30am"
-            }
-        ], 
-        "plane": "Embraer 175 (Enhanced Winglets)", 
-        "flight duration": "0 days 1 hours 22 minutes", 
-        "plane code": "E7W", 
-        "price": "345.19", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "6:37am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "5:30am"
-            }
-        ], 
-        "plane": "EMBRAER 170", 
-        "flight duration": "0 days 1 hours 7 minutes", 
-        "plane code": "E70", 
-        "price": "345.19", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "1:12pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "11:58am"
-            }
-        ], 
-        "plane": "Embraer 175 (Enhanced Winglets)", 
-        "flight duration": "0 days 1 hours 14 minutes", 
-        "plane code": "E7W", 
-        "price": "345.19", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "5:04pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "3:50pm"
-            }
-        ], 
-        "plane": "Embraer 175 (Enhanced Winglets)", 
-        "flight duration": "0 days 1 hours 14 minutes", 
-        "plane code": "E7W", 
-        "price": "345.19", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "10:54am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "9:40am"
-            }
-        ], 
-        "plane": "Embraer 175 (Enhanced Winglets)", 
-        "flight duration": "0 days 1 hours 14 minutes", 
-        "plane code": "E7W", 
-        "price": "345.19", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "3:25pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "2:05pm"
-            }
-        ], 
-        "plane": "Embraer 175 (Enhanced Winglets)", 
-        "flight duration": "0 days 1 hours 20 minutes", 
-        "plane code": "E7W", 
-        "price": "345.19", 
-        "departure": ", Dallas", 
-        "stops": "Nonstop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
-                "arrival_time": "9:14pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "8:05pm"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "1:35am", 
-                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
-                "departure_time": "10:25pm"
-            }
-        ], 
-        "plane": "Airbus A319", 
-        "flight duration": "0 days 5 hours 30 minutes", 
-        "plane code": "319", 
-        "price": "387.81", 
-        "departure": ", Dallas", 
+        "price": "643.20", 
+        "departure": ", Orlando", 
         "stops": "1 Stop", 
-        "airline": "United"
+        "airline": "American Airlines"
     }, 
     {
-        "arrival": ", Houston", 
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "7:34pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:51pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:50pm"
+            }
+        ], 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 4 hours 17 minutes", 
+        "plane code": "738", 
+        "price": "643.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "6:55pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "5:39pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:39am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane code": "738", 
+        "price": "643.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "7:34pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:39am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 5 hours 5 minutes", 
+        "plane code": "738", 
+        "price": "643.20", 
+        "departure": ", Orlando", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Atlanta", 
         "timings": [
             {
                 "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "11:16am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "8:15am"
-            }, 
-            {
-                "arrival_airport": "Jackson, MS (JAN-Evers Intl.)", 
-                "arrival_time": "12:35pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "12:10pm"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "3:40pm", 
-                "departure_airport": "Jackson, MS (JAN-Evers Intl.)", 
-                "departure_time": "2:10pm"
+                "arrival_time": "11:56am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "10:20am"
             }
         ], 
-        "plane": "Airbus A320", 
-        "flight duration": "0 days 7 hours 25 minutes", 
-        "plane code": "320", 
-        "price": "629.44", 
-        "departure": ", Dallas", 
-        "stops": "2 Stop", 
-        "airline": ""
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "flight duration": "0 days 1 hours 36 minutes", 
+        "plane code": "M88", 
+        "price": "772.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
+        "airline": "Delta"
     }, 
     {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "10:04am", 
-                "departure_airport": "Dallas, TX (DAL-Love Field)", 
-                "departure_time": "7:00am"
-            }, 
-            {
-                "arrival_airport": "Jackson, MS (JAN-Evers Intl.)", 
-                "arrival_time": "11:20am", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "10:50am"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "3:40pm", 
-                "departure_airport": "Jackson, MS (JAN-Evers Intl.)", 
-                "departure_time": "2:10pm"
-            }
-        ], 
-        "plane": "Boeing 717", 
-        "flight duration": "0 days 8 hours 40 minutes", 
-        "plane code": "717", 
-        "price": "629.44", 
-        "departure": ", Dallas", 
-        "stops": "2 Stop", 
-        "airline": ""
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "10:04am", 
-                "departure_airport": "Dallas, TX (DAL-Love Field)", 
-                "departure_time": "7:00am"
-            }, 
-            {
-                "arrival_airport": "Jackson, MS (JAN-Evers Intl.)", 
-                "arrival_time": "12:35pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "12:10pm"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "3:40pm", 
-                "departure_airport": "Jackson, MS (JAN-Evers Intl.)", 
-                "departure_time": "2:10pm"
-            }
-        ], 
-        "plane": "Boeing 717", 
-        "flight duration": "0 days 8 hours 40 minutes", 
-        "plane code": "717", 
-        "price": "629.44", 
-        "departure": ", Dallas", 
-        "stops": "2 Stop", 
-        "airline": ""
-    }, 
-    {
-        "arrival": ", Houston", 
+        "arrival": ", Atlanta", 
         "timings": [
             {
                 "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
                 "arrival_time": "10:08am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "7:00am"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "12:31pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "11:09am"
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "8:30am"
             }
         ], 
-        "plane": "Airbus A320", 
-        "flight duration": "0 days 5 hours 31 minutes", 
-        "plane code": "320", 
-        "price": "680.81", 
-        "departure": ", Dallas", 
-        "stops": "1 Stop", 
+        "plane": "Boeing 757", 
+        "flight duration": "0 days 1 hours 38 minutes", 
+        "plane code": "757", 
+        "price": "772.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
         "airline": "Delta"
     }, 
     {
-        "arrival": ", Houston", 
+        "arrival": ", Atlanta", 
         "timings": [
             {
                 "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "2:30pm", 
-                "departure_airport": "Dallas, TX (DAL-Love Field)", 
-                "departure_time": "11:24am"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "4:49pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "3:23pm"
+                "arrival_time": "3:04pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "1:25pm"
             }
         ], 
-        "plane": "Boeing 717", 
-        "flight duration": "0 days 5 hours 25 minutes", 
-        "plane code": "717", 
-        "price": "680.81", 
-        "departure": ", Dallas", 
-        "stops": "1 Stop", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "flight duration": "0 days 1 hours 39 minutes", 
+        "plane code": "M88", 
+        "price": "772.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
         "airline": "Delta"
     }, 
     {
-        "arrival": ", Houston", 
+        "arrival": ", Atlanta", 
         "timings": [
             {
                 "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "2:12pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "11:02am"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "4:10pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "2:59pm"
+                "arrival_time": "10:55am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "9:20am"
             }
         ], 
-        "plane": "Boeing 717", 
-        "flight duration": "0 days 5 hours 8 minutes", 
-        "plane code": "717", 
-        "price": "680.81", 
-        "departure": ", Dallas", 
-        "stops": "1 Stop", 
-        "airline": "Delta"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "10:04am", 
-                "departure_airport": "Dallas, TX (DAL-Love Field)", 
-                "departure_time": "7:00am"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "12:31pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "11:09am"
-            }
-        ], 
-        "plane": "Boeing 717", 
-        "flight duration": "0 days 5 hours 31 minutes", 
-        "plane code": "717", 
-        "price": "680.81", 
-        "departure": ", Dallas", 
-        "stops": "1 Stop", 
-        "airline": "Delta"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "3:26pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "12:20pm"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "5:53pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "4:41pm"
-            }
-        ], 
-        "plane": "Boeing 717", 
-        "flight duration": "0 days 5 hours 33 minutes", 
-        "plane code": "717", 
-        "price": "680.81", 
-        "departure": ", Dallas", 
-        "stops": "1 Stop", 
-        "airline": "Delta"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "10:08am", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "7:00am"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "12:09pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "10:50am"
-            }
-        ], 
-        "plane": "Airbus A320", 
-        "flight duration": "0 days 5 hours 9 minutes", 
-        "plane code": "320", 
-        "price": "680.81", 
-        "departure": ", Dallas", 
-        "stops": "1 Stop", 
-        "airline": "Delta"
-    }, 
-    {
-        "arrival": ", Houston", 
-        "timings": [
-            {
-                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "10:04am", 
-                "departure_airport": "Dallas, TX (DAL-Love Field)", 
-                "departure_time": "7:00am"
-            }, 
-            {
-                "arrival_airport": "Houston, TX (HOU-William P. Hobby)", 
-                "arrival_time": "12:09pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "10:50am"
-            }
-        ], 
-        "plane": "Boeing 717", 
-        "flight duration": "0 days 5 hours 9 minutes", 
-        "plane code": "717", 
-        "price": "680.81", 
-        "departure": ", Dallas", 
-        "stops": "1 Stop", 
+        "plane": "Boeing 757", 
+        "flight duration": "0 days 1 hours 35 minutes", 
+        "plane code": "757", 
+        "price": "772.80", 
+        "departure": ", Orlando", 
+        "stops": "Nonstop", 
         "airline": "Delta"
     }
 ]
