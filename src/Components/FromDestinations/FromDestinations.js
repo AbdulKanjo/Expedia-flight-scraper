@@ -12,7 +12,6 @@ class FromDestinations extends Component {
   render() {
     // console.log("from", this.props.from);
     // console.log("color", this.state.color);
-
     const { updateFrom } = this.props;
     return (
       <div>

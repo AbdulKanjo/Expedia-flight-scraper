@@ -1,7 +1,7 @@
 const initialState = {
-  from: "dallas",
-  to: "houston",
-  date: "01262019",
+  from: "",
+  to: "",
+  date: "",
   color: ""
 };
 

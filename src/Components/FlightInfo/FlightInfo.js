@@ -54,11 +54,20 @@ class FlightInfo extends Component {
 
     return (
       <div>
-        {this.props.to === this.props.from ? (
+        {this.props.from ? (
+          this.props.to === this.props.from ? (
+            <p>Must have different destinations</p>
+          ) : (
+            ""
+          )
+        ) : (
+          <p>Select destinations or </p>
+        )}
+        {/* {this.props.to === this.props.from ? (
           <p>Must have different destinations</p>
         ) : (
           ""
-        )}
+        )} */}
         <InputInformation />
         {this.state.searchOptions ? (
           <div>
