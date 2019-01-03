@@ -33,9 +33,7 @@ class FlightInfo extends Component {
   };
 
   render() {
-    // console.log(this.props);
     let sortedData = this.state.info.sort((a, b) => a.price - b.price);
-    // console.log(sortedData.map(e => e.price));
 
     let showInfo = sortedData.map((e, i) => {
       return (
@@ -61,14 +59,9 @@ class FlightInfo extends Component {
             ""
           )
         ) : (
-          <p>Select destinations or </p>
+          <p>Select destinations or choose</p>
         )}
-        {/* {this.props.to === this.props.from ? (
-          <p>Must have different destinations</p>
-        ) : (
-          ""
-        )} */}
-        <InputInformation />
+        <InputInformation checkInfo={this.getFlightInfo} />
         {this.state.searchOptions ? (
           <div>
             <FromDestinations />
