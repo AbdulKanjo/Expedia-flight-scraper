@@ -17,11 +17,7 @@ class FromDestinations extends Component {
       <div>
         FROM
         <div className="city-selector">
-          <div
-            className="actual-city"
-            onClick={() => updateFrom("dallas")}
-            // onClick={() => updateFrom("dallas")}
-          >
+          <div className="actual-city" onClick={() => updateFrom("dallas")}>
             Dallas
           </div>
           <div className="actual-city" onClick={() => updateFrom("Austin")}>

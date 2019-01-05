@@ -62,6 +62,7 @@ class FlightInfo extends Component {
           <p>Select destinations or choose</p>
         )}
         <InputInformation checkInfo={this.getFlightInfo} />
+        <button onClick={() => this.getFlightInfo()}>Check Flight</button>
         {this.state.searchOptions ? (
           <div>
             <FromDestinations />
@@ -75,7 +76,7 @@ class FlightInfo extends Component {
             <button onClick={() => this.handleDestinations()}>
               Change Destinations
             </button>
-            <button onClick={() => this.getFlightInfo()}>Check Flight</button>
+
             {showInfo}
           </div>
         )}
