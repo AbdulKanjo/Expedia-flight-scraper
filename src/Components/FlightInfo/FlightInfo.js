@@ -76,7 +76,6 @@ class FlightInfo extends Component {
             <button onClick={() => this.handleDestinations()}>
               Change Destinations
             </button>
-
             {showInfo}
           </div>
         )}

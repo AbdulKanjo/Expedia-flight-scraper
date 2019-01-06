@@ -3,27 +3,27 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "12:33pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "8:05am"
+                "arrival_airport": "New York, NY, United States (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:21pm", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "12:39pm"
             }
         ], 
-        "plane": "Airbus A320", 
-        "flight duration": "0 days 3 hours 28 minutes", 
-        "plane code": "320", 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 3 hours 42 minutes", 
+        "plane code": "738", 
         "price": "118.30", 
         "departure": ", Austin", 
         "stops": "Nonstop", 
-        "airline": "Delta"
+        "airline": "American Airlines"
     }, 
     {
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_airport": "New York, NY, United States (JFK-John F. Kennedy Intl.)", 
                 "arrival_time": "9:57am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "5:30am"
             }
         ], 
@@ -39,9 +39,9 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_airport": "New York, NY, United States (JFK-John F. Kennedy Intl.)", 
                 "arrival_time": "1:48pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "9:08am"
             }
         ], 
@@ -54,186 +54,18 @@
         "airline": "American Airlines"
     }, 
     {
-        "arrival": ", Newark", 
+        "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
                 "arrival_time": "7:45am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "5:00am"
             }, 
             {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
-                "arrival_time": "12:00pm", 
-                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "departure_time": "8:55am"
-            }
-        ], 
-        "plane": "Boeing 737-800", 
-        "flight duration": "0 days 6 hours 0 minutes", 
-        "plane code": "738", 
-        "price": "127.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", New York", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:08am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "7:27am"
-            }, 
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "3:11pm", 
-                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "departure_time": "12:00pm"
-            }
-        ], 
-        "plane": "Boeing 737-900", 
-        "flight duration": "0 days 6 hours 44 minutes", 
-        "plane code": "739", 
-        "price": "127.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", New York", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:08am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "7:27am"
-            }, 
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "2:11pm", 
-                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "departure_time": "11:00am"
-            }
-        ], 
-        "plane": "Boeing 737-900", 
-        "flight duration": "0 days 5 hours 44 minutes", 
-        "plane code": "739", 
-        "price": "127.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", New York", 
-        "timings": [
-            {
-                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "arrival_time": "11:46am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "7:26am"
-            }, 
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "2:00pm", 
-                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "departure_time": "12:58pm"
-            }
-        ], 
-        "plane": "Embraer 190", 
-        "flight duration": "0 days 5 hours 34 minutes", 
-        "plane code": "E90", 
-        "price": "127.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", New York", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:08am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "7:27am"
-            }, 
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "3:41pm", 
-                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "departure_time": "12:30pm"
-            }
-        ], 
-        "plane": "Boeing 737-900", 
-        "flight duration": "0 days 7 hours 14 minutes", 
-        "plane code": "739", 
-        "price": "127.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Newark", 
-        "timings": [
-            {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "8:24am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "7:17am"
-            }, 
-            {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
-                "arrival_time": "2:33pm", 
-                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "departure_time": "10:10am"
-            }
-        ], 
-        "plane": "Boeing 737-900", 
-        "flight duration": "0 days 6 hours 16 minutes", 
-        "plane code": "739", 
-        "price": "127.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Newark", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:08am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "7:27am"
-            }, 
-            {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
-                "arrival_time": "3:00pm", 
-                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "departure_time": "11:50am"
-            }
-        ], 
-        "plane": "Boeing 737-900", 
-        "flight duration": "0 days 6 hours 33 minutes", 
-        "plane code": "739", 
-        "price": "127.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", New York", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "7:45am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "5:00am"
-            }, 
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "1:38pm", 
-                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
                 "departure_time": "10:30am"
             }
         ], 
@@ -249,15 +81,183 @@
         "arrival": ", Newark", 
         "timings": [
             {
-                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
-                "arrival_time": "8:37am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, United States (EWR-Liberty Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "departure_time": "8:55am"
+            }
+        ], 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane code": "738", 
+        "price": "127.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:08am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "7:27am"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
+                "arrival_time": "3:11pm", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "plane": "Boeing 737-900", 
+        "flight duration": "0 days 6 hours 44 minutes", 
+        "plane code": "739", 
+        "price": "127.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:08am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "7:27am"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
+                "arrival_time": "2:11pm", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "plane": "Boeing 737-900", 
+        "flight duration": "0 days 5 hours 44 minutes", 
+        "plane code": "739", 
+        "price": "127.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA, United States (PHL-Philadelphia Intl.)", 
+                "arrival_time": "11:46am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "7:26am"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
+                "arrival_time": "2:00pm", 
+                "departure_airport": "Philadelphia, PA, United States (PHL-Philadelphia Intl.)", 
+                "departure_time": "12:58pm"
+            }
+        ], 
+        "plane": "Embraer 190", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane code": "E90", 
+        "price": "127.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:08am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "7:27am"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
+                "arrival_time": "3:41pm", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "plane": "Boeing 737-900", 
+        "flight duration": "0 days 7 hours 14 minutes", 
+        "plane code": "739", 
+        "price": "127.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, United States (IAH-George Bush Intercontinental)", 
+                "arrival_time": "8:24am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "7:17am"
             }, 
             {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_airport": "Newark, NJ, United States (EWR-Liberty Intl.)", 
+                "arrival_time": "2:33pm", 
+                "departure_airport": "Houston, TX, United States (IAH-George Bush Intercontinental)", 
+                "departure_time": "10:10am"
+            }
+        ], 
+        "plane": "Boeing 737-900", 
+        "flight duration": "0 days 6 hours 16 minutes", 
+        "plane code": "739", 
+        "price": "127.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:08am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "7:27am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, United States (EWR-Liberty Intl.)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "plane": "Boeing 737-900", 
+        "flight duration": "0 days 6 hours 33 minutes", 
+        "plane code": "739", 
+        "price": "127.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "timings": [
+            {
+                "arrival_airport": "Denver, CO, United States (DEN-Denver Intl.)", 
+                "arrival_time": "8:37am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "7:17am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, United States (EWR-Liberty Intl.)", 
                 "arrival_time": "3:30pm", 
-                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_airport": "Denver, CO, United States (DEN-Denver Intl.)", 
                 "departure_time": "9:45am"
             }
         ], 
@@ -273,15 +273,15 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
                 "arrival_time": "10:08am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "7:27am"
             }, 
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "5:11pm", 
-                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
                 "departure_time": "2:00pm"
             }
         ], 
@@ -297,15 +297,15 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
                 "arrival_time": "10:08am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "7:27am"
             }, 
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "4:11pm", 
-                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
                 "departure_time": "1:00pm"
             }
         ], 
@@ -321,130 +321,88 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "3:26pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "2:25pm"
-            }, 
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "9:59pm", 
-                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "departure_time": "5:36pm"
+                "arrival_airport": "New York, NY, United States (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:33pm", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "8:05am"
             }
         ], 
-        "plane": "Boeing 737-900", 
-        "flight duration": "0 days 6 hours 34 minutes", 
-        "plane code": "739", 
-        "price": "127.00", 
+        "plane": "Airbus A320", 
+        "flight duration": "0 days 3 hours 28 minutes", 
+        "plane code": "320", 
+        "price": "143.30", 
         "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "United"
+        "stops": "Nonstop", 
+        "airline": "Delta"
     }, 
     {
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "5:21pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "12:39pm"
-            }
-        ], 
-        "plane": "Boeing 737-800", 
-        "flight duration": "0 days 3 hours 42 minutes", 
-        "plane code": "738", 
-        "price": "143.30", 
-        "departure": ", Austin", 
-        "stops": "Nonstop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", Newark", 
-        "timings": [
-            {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
-                "arrival_time": "4:20pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "11:46am"
-            }
-        ], 
-        "plane": "Boeing 737-900", 
-        "flight duration": "0 days 3 hours 34 minutes", 
-        "plane code": "739", 
-        "price": "143.30", 
-        "departure": ", Austin", 
-        "stops": "Nonstop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", Newark", 
-        "timings": [
-            {
-                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
-                "arrival_time": "8:37am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "7:17am"
+                "arrival_airport": "Minneapolis, MN, United States (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "8:47am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "6:00am"
             }, 
             {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
-                "arrival_time": "5:06pm", 
-                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
-                "departure_time": "11:23am"
+                "arrival_airport": "New York, NY, United States (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:12pm", 
+                "departure_airport": "Minneapolis, MN, United States (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "10:26am"
             }
         ], 
-        "plane": "Boeing 737-900", 
-        "flight duration": "0 days 8 hours 49 minutes", 
-        "plane code": "739", 
+        "plane": "Airbus A319", 
+        "flight duration": "0 days 7 hours 12 minutes", 
+        "plane code": "319", 
         "price": "152.00", 
         "departure": ", Austin", 
         "stops": "1 Stop", 
-        "airline": "United"
+        "airline": "Delta"
     }, 
     {
         "arrival": ", Newark", 
         "timings": [
             {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_airport": "Houston, TX, United States (IAH-George Bush Intercontinental)", 
                 "arrival_time": "7:00pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "5:43pm"
             }, 
             {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_airport": "Newark, NJ, United States (EWR-Liberty Intl.)", 
                 "arrival_time": "11:59pm", 
-                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_airport": "Houston, TX, United States (IAH-George Bush Intercontinental)", 
                 "departure_time": "7:41pm"
             }
         ], 
         "plane": "Boeing 737-900", 
         "flight duration": "0 days 5 hours 16 minutes", 
         "plane code": "739", 
-        "price": "152.00", 
+        "price": "162.00", 
         "departure": ", Austin", 
         "stops": "1 Stop", 
         "airline": "United"
     }, 
     {
-        "arrival": ", New York", 
+        "arrival": ", Newark", 
         "timings": [
             {
-                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_airport": "Washington, DC, United States (IAD-Washington Dulles Intl.)", 
                 "arrival_time": "11:31am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "7:30am"
             }, 
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "2:03pm", 
-                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
-                "departure_time": "12:45pm"
+                "arrival_airport": "Newark, NJ, United States (EWR-Liberty Intl.)", 
+                "arrival_time": "2:08pm", 
+                "departure_airport": "Washington, DC, United States (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:30pm"
             }
         ], 
         "plane": "Embraer 175 (Enhanced Winglets)", 
-        "flight duration": "0 days 5 hours 33 minutes", 
+        "flight duration": "0 days 5 hours 38 minutes", 
         "plane code": "E7W", 
-        "price": "152.00", 
+        "price": "162.00", 
         "departure": ", Austin", 
         "stops": "1 Stop", 
         "airline": "United"
@@ -453,15 +411,39 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_airport": "Houston, TX, United States (IAH-George Bush Intercontinental)", 
+                "arrival_time": "3:26pm", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Houston, TX, United States (IAH-George Bush Intercontinental)", 
+                "departure_time": "5:36pm"
+            }
+        ], 
+        "plane": "Boeing 737-900", 
+        "flight duration": "0 days 6 hours 34 minutes", 
+        "plane code": "739", 
+        "price": "165.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, United States (CLT-Charlotte-Douglas Intl.)", 
                 "arrival_time": "5:46pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "2:01pm"
             }, 
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "10:21pm", 
-                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_airport": "Charlotte, NC, United States (CLT-Charlotte-Douglas Intl.)", 
                 "departure_time": "8:24pm"
             }
         ], 
@@ -477,15 +459,87 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:59am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:15pm", 
+                "departure_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "12:42pm"
+            }
+        ], 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 5 hours 25 minutes", 
+        "plane code": "738", 
+        "price": "188.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:34pm", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "2:27pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
+                "arrival_time": "11:03pm", 
+                "departure_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "6:38pm"
+            }
+        ], 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 7 hours 36 minutes", 
+        "plane code": "738", 
+        "price": "188.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:34pm", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "2:27pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
+                "arrival_time": "10:02pm", 
+                "departure_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "5:45pm"
+            }
+        ], 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane code": "738", 
+        "price": "188.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
                 "arrival_time": "10:49am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "8:07am"
             }, 
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "3:40pm", 
-                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
                 "departure_time": "12:30pm"
             }
         ], 
@@ -498,17 +552,41 @@
         "airline": "American Airlines"
     }, 
     {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:49am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "8:07am"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
+                "arrival_time": "5:38pm", 
+                "departure_airport": "Chicago, IL, United States (ORD-O'Hare Intl.)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 8 hours 31 minutes", 
+        "plane code": "738", 
+        "price": "188.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
         "arrival": ", Newark", 
         "timings": [
             {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
-                "arrival_time": "10:58pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "6:15pm"
+                "arrival_airport": "Newark, NJ, United States (EWR-Liberty Intl.)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "11:46am"
             }
         ], 
         "plane": "Boeing 737-900", 
-        "flight duration": "0 days 3 hours 43 minutes", 
+        "flight duration": "0 days 3 hours 34 minutes", 
         "plane code": "739", 
         "price": "209.31", 
         "departure": ", Austin", 
@@ -519,15 +597,39 @@
         "arrival": ", Newark", 
         "timings": [
             {
-                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:59am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, United States (EWR-Liberty Intl.)", 
+                "arrival_time": "5:06pm", 
+                "departure_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 5 hours 16 minutes", 
+        "plane code": "738", 
+        "price": "210.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
                 "arrival_time": "3:34pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "2:27pm"
             }, 
             {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_airport": "Newark, NJ, United States (EWR-Liberty Intl.)", 
                 "arrival_time": "10:59pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
                 "departure_time": "6:37pm"
             }
         ], 
@@ -543,15 +645,39 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_airport": "Atlanta, GA, United States (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:57am", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "5:44am"
+            }, 
+            {
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
+                "arrival_time": "1:38pm", 
+                "departure_airport": "Atlanta, GA, United States (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:30am"
+            }
+        ], 
+        "plane": "Airbus A321", 
+        "flight duration": "0 days 6 hours 54 minutes", 
+        "plane code": "321", 
+        "price": "210.00", 
+        "departure": ", Austin", 
+        "stops": "1 Stop", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", New York", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, United States (IAH-George Bush Intercontinental)", 
                 "arrival_time": "7:00pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "5:43pm"
             }, 
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "12:03am", 
-                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_airport": "Houston, TX, United States (IAH-George Bush Intercontinental)", 
                 "departure_time": "7:40pm"
             }
         ], 
@@ -564,90 +690,18 @@
         "airline": "United"
     }, 
     {
-        "arrival": ", Newark", 
-        "timings": [
-            {
-                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
-                "arrival_time": "11:31am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "7:30am"
-            }, 
-            {
-                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
-                "arrival_time": "2:08pm", 
-                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
-                "departure_time": "12:30pm"
-            }
-        ], 
-        "plane": "Embraer 175 (Enhanced Winglets)", 
-        "flight duration": "0 days 5 hours 38 minutes", 
-        "plane code": "E7W", 
-        "price": "210.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "United"
-    }, 
-    {
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "arrival_time": "3:26pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "2:25pm"
-            }, 
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "8:59pm", 
-                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
-                "departure_time": "4:35pm"
-            }
-        ], 
-        "plane": "Boeing 737-900", 
-        "flight duration": "0 days 5 hours 34 minutes", 
-        "plane code": "739", 
-        "price": "210.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "United"
-    }, 
-    {
-        "arrival": ", New York", 
-        "timings": [
-            {
-                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_airport": "Charlotte, NC, United States (CLT-Charlotte-Douglas Intl.)", 
                 "arrival_time": "5:13pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "1:30pm"
             }, 
             {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "9:54pm", 
-                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
-                "departure_time": "7:56pm"
-            }
-        ], 
-        "plane": "Airbus A319", 
-        "flight duration": "0 days 7 hours 24 minutes", 
-        "plane code": "319", 
-        "price": "229.50", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", New York", 
-        "timings": [
-            {
-                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
-                "arrival_time": "5:13pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "1:30pm"
-            }, 
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "8:12pm", 
-                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_airport": "Charlotte, NC, United States (CLT-Charlotte-Douglas Intl.)", 
                 "departure_time": "6:12pm"
             }
         ], 
@@ -663,15 +717,15 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_airport": "Charlotte, NC, United States (CLT-Charlotte-Douglas Intl.)", 
                 "arrival_time": "5:46pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "2:01pm"
             }, 
             {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_airport": "New York, NY, United States (JFK-John F. Kennedy Intl.)", 
                 "arrival_time": "9:54pm", 
-                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_airport": "Charlotte, NC, United States (CLT-Charlotte-Douglas Intl.)", 
                 "departure_time": "7:56pm"
             }
         ], 
@@ -687,63 +741,15 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "arrival_time": "11:59am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "10:50am"
-            }, 
-            {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "5:15pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "12:42pm"
-            }
-        ], 
-        "plane": "Boeing 737-800", 
-        "flight duration": "0 days 5 hours 25 minutes", 
-        "plane code": "738", 
-        "price": "231.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", New York", 
-        "timings": [
-            {
-                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "arrival_time": "5:44pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
-                "departure_time": "4:34pm"
-            }, 
-            {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "10:59pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
-                "departure_time": "6:26pm"
-            }
-        ], 
-        "plane": "Boeing 737-800", 
-        "flight duration": "0 days 5 hours 25 minutes", 
-        "plane code": "738", 
-        "price": "231.00", 
-        "departure": ", Austin", 
-        "stops": "1 Stop", 
-        "airline": "American Airlines"
-    }, 
-    {
-        "arrival": ", New York", 
-        "timings": [
-            {
-                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
                 "arrival_time": "3:34pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "2:27pm"
             }, 
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "9:10pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
                 "departure_time": "4:52pm"
             }
         ], 
@@ -759,15 +765,15 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
                 "arrival_time": "11:59am", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "10:50am"
             }, 
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "4:59pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
                 "departure_time": "12:39pm"
             }
         ], 
@@ -783,15 +789,15 @@
         "arrival": ", New York", 
         "timings": [
             {
-                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
                 "arrival_time": "5:44pm", 
-                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_airport": "Austin, TX, United States (AUS-Austin-Bergstrom Intl.)", 
                 "departure_time": "4:34pm"
             }, 
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_airport": "New York, NY, United States (LGA-LaGuardia)", 
                 "arrival_time": "11:03pm", 
-                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_airport": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)", 
                 "departure_time": "6:38pm"
             }
         ], 
