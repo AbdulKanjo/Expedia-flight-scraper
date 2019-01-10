@@ -22,7 +22,7 @@ class ToDestinations extends Component {
       <div>
         TO
         <div className="city-selector">
-          <div className="actual-city" onClick={() => updateTo("test")}>
+          <div className="actual-city" onClick={() => updateTo("Dallas")}>
             Dallas
           </div>
           <div className="actual-city" onClick={() => updateTo("Austin")}>
