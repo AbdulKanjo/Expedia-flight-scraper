@@ -10,14 +10,12 @@ class FromDestinations extends Component {
   }
 
   render() {
-    // console.log("from", this.props.from);
-    // console.log("color", this.state.color);
     const { updateFrom } = this.props;
     return (
       <div>
         FROM
         <div className="city-selector">
-          <div className="actual-city" onClick={() => updateFrom("dallas")}>
+          <div className="actual-city" onClick={() => updateFrom("Dallas")}>
             Dallas
           </div>
           <div className="actual-city" onClick={() => updateFrom("Austin")}>

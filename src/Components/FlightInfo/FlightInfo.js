@@ -53,7 +53,7 @@ class FlightInfo extends Component {
     return (
       <div>
         {this.props.from ? (
-          this.props.to === this.props.from ? (
+          this.props.to == this.props.from ? (
             <p>Must have different destinations</p>
           ) : (
             ""
